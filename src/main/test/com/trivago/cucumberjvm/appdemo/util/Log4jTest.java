@@ -1,4 +1,4 @@
-package com.ravi.cucumberjvm.appdemo.util;
+package com.trivago.cucumberjvm.appdemo.util;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;

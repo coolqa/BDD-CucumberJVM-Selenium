@@ -1,4 +1,4 @@
-package com.ravi.cucumberjvm.appdemo.util;
+package com.trivago.cucumberjvm.appdemo.util;
 
 import org.junit.Assert;
 import org.junit.Test;
